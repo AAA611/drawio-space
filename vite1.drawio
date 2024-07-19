@@ -1,156 +1,156 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T10:05:47.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="f4v7StKfJ6r9S_xxqXbp" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T11:42:32.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="arLXYcSvenyDrDwAGHMa" version="24.6.5" type="github">
   <diagram name="第 1 页" id="OXRmj3ONts_fg6BUwYeo">
-    <mxGraphModel dx="6753" dy="4306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="2267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Advp9efCXmAQx4mpiXnv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1" source="Advp9efCXmAQx4mpiXnv-2">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" parent="1" source="Advp9efCXmAQx4mpiXnv-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-2" value="浏览器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00A6A6;strokeColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-2" value="浏览器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00A6A6;strokeColor=none;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-250" y="245" width="180" height="285" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-4" value="HTTP request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-4" value="HTTP request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="30" y="340" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="350" y="170" width="1700" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-13" value="middlewares 中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-13" value="middlewares 中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="350" y="130" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8066FF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8066FF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="960" y="230" width="410" height="395" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#8066FF;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#8066FF;" parent="1" vertex="1">
           <mxGeometry x="1540" y="242.5" width="200" height="382.5" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-27" value="Vite dev server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-27" value="Vite dev server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="760" y="-1052" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="-500" as="targetPoint" />
             <mxPoint x="120" y="-500.0000000000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-33" value="indexHtmlMiddleware 中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-33" value="indexHtmlMiddleware 中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1015" y="270" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-35" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#8066FF;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-35" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=#8066FF;" parent="1" vertex="1">
           <mxGeometry x="590" y="230" width="200" height="382.5" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-39" value="req、res、next" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-39" value="req、res、next" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="575" y="325" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-41" value="req、res、next" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-41" value="req、res、next" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1525" y="330" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-42" value="req、res、next" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-42" value="req、res、next" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1030" y="330" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1060" y="650" as="sourcePoint" />
             <mxPoint x="1060" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;" edge="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-48" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1241" y="1110" as="sourcePoint" />
             <mxPoint x="1240.9992307692305" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="900" y="1110" width="570" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-59" value="Plugin A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-59" value="Plugin A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1120" y="1150" width="305" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-60" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-60" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1120" y="1540" width="305" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-61" value="Plugin C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-61" value="Plugin C" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1120" y="1400" width="305" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-62" value="Plugin B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-62" value="Plugin B" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00994D;strokeColor=#82b366;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1120" y="1280" width="305" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-63" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-63" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1080" y="670" as="sourcePoint" />
             <mxPoint x="1080" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-64" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1230" y="1050" as="sourcePoint" />
             <mxPoint x="1230" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-65" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;调用插件能力&lt;/div&gt;在处理请求时，中间件中可以调用插件的能力处理。&lt;div style=&quot;font-size: 16px;&quot;&gt;例如文件的转换&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-65" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;调用插件能力&lt;/div&gt;在处理请求时，中间件中可以调用插件的能力处理。&lt;div style=&quot;font-size: 16px;&quot;&gt;例如文件的转换&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="710" y="810" width="390" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-66" value="插件处理结果" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-66" value="插件处理结果" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1280" y="830" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-67" value="" style="group;fillColor=none;strokeColor=none;" vertex="1" connectable="0" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-67" value="" style="group;fillColor=none;strokeColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="845" y="-340" width="620" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-43" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#56517e;labelBorderColor=default;fillColor=#d0cee2;" vertex="1" parent="Advp9efCXmAQx4mpiXnv-67">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-43" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;strokeColor=#56517e;labelBorderColor=default;fillColor=#d0cee2;" parent="Advp9efCXmAQx4mpiXnv-67" vertex="1">
           <mxGeometry width="620" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-44" value="1、中间件是一个接受了 req、res、next 的函数。&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;2、客户端的请求由中间件处理，多个中间件串行调用。&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;3、中间件中可以调用 next() 将请求交给下一个中间件处理。也可以直接使用 res 对象直接返回结果，后续中间件不再被调用。&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;4、中间件可以间接或直接调用 Plugins 能力来处理请求，例如文件转换、css 处理等等。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;strokeColor=none;fillColor=#d0cee2;" vertex="1" parent="Advp9efCXmAQx4mpiXnv-67">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-44" value="1、中间件是一个接受了 req、res、next 的函数。&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;2、客户端的请求由中间件处理，多个中间件串行调用。&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;3、中间件中可以调用 next() 将请求交给下一个中间件处理。也可以直接使用 res 对象直接返回结果，后续中间件不再被调用。&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;4、中间件可以间接或直接调用 Plugins 能力来处理请求，例如文件转换、css 处理等等。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;strokeColor=none;fillColor=#d0cee2;" parent="Advp9efCXmAQx4mpiXnv-67" vertex="1">
           <mxGeometry x="50" y="30" width="500" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-68" value="A 中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-68" value="A 中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="640" y="260" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-69" value="B 中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-69" value="B 中间件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1590" y="270" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.341;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#8066FF;" edge="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-70" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.341;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#8066FF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="810" y="426.9" as="sourcePoint" />
             <mxPoint x="929.6999999999998" y="426.87999999999954" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-71" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.341;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#8066FF;" edge="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-71" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.341;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#8066FF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1390" y="433.15" as="sourcePoint" />
             <mxPoint x="1509.6999999999998" y="433.12999999999954" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-72" value="next()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-72" value="next()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="825" y="380" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-73" value="next()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-73" value="next()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1420" y="390" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-75" value="Plugins 插件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-75" value="Plugins 插件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="900" y="1070" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-76" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-76" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1100" y="120" as="sourcePoint" />
             <mxPoint x="1100" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-77" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#00A6A6;" edge="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-77" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#00A6A6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-25" y="399.38" as="sourcePoint" />
             <mxPoint x="235" y="399.38" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-78" value="解释说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-78" value="解释说明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="1110" y="38" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#8066FF;" vertex="1" parent="1">
-          <mxGeometry x="255" y="-460" width="2400" height="2280" as="geometry" />
+        <mxCell id="Advp9efCXmAQx4mpiXnv-79" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=3;strokeColor=#8066FF;" parent="1" vertex="1">
+          <mxGeometry x="250" y="-460" width="2400" height="2280" as="geometry" />
         </mxCell>
-        <mxCell id="Advp9efCXmAQx4mpiXnv-80" value="Vite Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=1;fontColor=#8066FF;" vertex="1" parent="1">
+        <mxCell id="Advp9efCXmAQx4mpiXnv-80" value="Vite Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;fontStyle=1;fontColor=#8066FF;" parent="1" vertex="1">
           <mxGeometry x="1340" y="-550" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
